@@ -13,4 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String sayHunter(){
+		return "Mmm, hunter Engineering is a global leader in wheel alignment machines, wheel balancers, tire changers, brake service equipment";
+	}
 }
