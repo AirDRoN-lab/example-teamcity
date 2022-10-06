@@ -33,7 +33,7 @@
           <param name="userSettingsSelection" value="settings.xml" />
         </parameters>
       </runner>
-      <runner id="RUNNER_3" name="Hellooo World" type="simpleRunner">
+      <runner id="RUNNER_3" name="Hellooo World (test export to Git)" type="simpleRunner">
         <parameters>
           <param name="script.content" value="echo &quot;Hello World&quot;" />
           <param name="teamcity.step.mode" value="default" />
